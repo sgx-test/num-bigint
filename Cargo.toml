@@ -55,6 +55,7 @@ version = "0.8"
 default-features = false
 
 [dependencies.serde]
+git = "https://github.com/mesalock-linux/serde-sgx"
 optional = true
 version = "1.0"
 default-features = false
